@@ -1,0 +1,23 @@
+.head1{
+    background-color: rgb(173, 173, 255);
+    color:blueviolet;
+    font-size:35px
+    ;
+    text-align: center;
+}
+.p1{
+    /* color:red;
+    text-transform: capitalize; */
+    background: linear-gradient(90deg,red,blueviolet,yellow,orange,cyan)
+        
+
+}
+.div1{
+    display: flex;
+    display: inline-flex;
+    
+}
+.head2{
+font-size: 45px;
+color: linear-gradient(,red,yellow);
+}
